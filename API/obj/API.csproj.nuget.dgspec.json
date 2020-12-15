@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmarkley\\Desktop\\API Test\\api\\API.csproj": {}
+    "C:\\Users\\jmarkley\\Desktop\\API Test\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmarkley\\Desktop\\API Test\\api\\API.csproj": {
+    "C:\\Users\\jmarkley\\Desktop\\API Test\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmarkley\\Desktop\\API Test\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\jmarkley\\Desktop\\API Test\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\jmarkley\\Desktop\\API Test\\api\\API.csproj",
+        "projectPath": "C:\\Users\\jmarkley\\Desktop\\API Test\\API\\API.csproj",
         "packagesPath": "C:\\Users\\jmarkley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmarkley\\Desktop\\API Test\\api\\obj\\",
+        "outputPath": "C:\\Users\\jmarkley\\Desktop\\API Test\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jmarkley\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.0, )",
+              "version": "[5.0.1, )",
               "noWarn": [
                 "NU1605"
               ]

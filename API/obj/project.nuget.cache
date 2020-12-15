@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "N9DzCzIFqHkigD8X++Re6Rpz8WQX3FzsvtHmRTs7FsYN4McK5a0yzwSqZKt1E9+LVPc29o5rau+b24yZ4K0MFg==",
+  "dgSpecHash": "jeqCZ5Tt757TjHesiz38U7s6+ZV3LyvqCJr9D0AUG6x2HL2caURx0UpxbODdygPTEEJd6zngd2yTJCiOc1xT8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jmarkley\\Desktop\\API Test\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\jmarkley\\Desktop\\API Test\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jmarkley\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\jmarkley\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
+    "C:\\Users\\jmarkley\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\jmarkley\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
     "C:\\Users\\jmarkley\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jmarkley\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.0\\microsoft.data.sqlite.core.5.0.0.nupkg.sha512",
